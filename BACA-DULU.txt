@@ -1,0 +1,49 @@
+PETUALANGAN KATA — PUKUL JAWABAN
+
+1. Ekstrak semua isi ZIP.
+2. Buka index.html di Google Chrome.
+3. Izinkan kamera, lalu periksa indikator TELAPAK di layar uji.
+4. Pukul target di udara 3 kali: ayun, tarik keluar, ulangi.
+5. Tekan Mulai Bermain • Layar Penuh.
+6. Pukul jawaban pilihan 3 kali untuk menjawab.
+
+Jika gambar kamera muncul tetapi gerakan tidak terbaca:
+pilih Mode sensor Kompatibel (CPU), lalu ikuti PANDUAN-IFP-HISENSE.txt.
+
+Kontrol alternatif:
+- Klik atau sentuh jawaban.
+- Keyboard P1: Q/W/A/S atau 1/2/3/4. P2: I/O/K/L.
+
+ISI PAKET
+index.html                  Game utama
+pratinjau-animasi.html       Pratinjau karakter anime
+PANDUAN-IFP-HISENSE.txt      Kamera, fullscreen, cara pukul, dan hasil uji
+PROMPT-ILUSTRASI.txt         Prompt ilustrasi imagegen
+aset/karakter/              PNG karakter
+aset/background/            Background menu
+aset/css/                   Tampilan dan animasi
+aset/js/                    Permainan dan pengenal pukulan
+aset/sensor/                Model tangan, mesin sensor, pemuat lokal
+aset/vendor/                Pustaka tampilan
+
+Background tidak tampil saat kalibrasi/permainan. Soal semua kelas mudah.
+Model sensor tersedia lokal, termasuk untuk file:// pada Chrome yang mendukungnya.
+Jika IFP membatasi akses file lokal atau kamera, gunakan hosting HTTPS.
+Jangan memindahkan index.html tanpa folder aset.
+
+MATERI BAHASA INDONESIA — SEMUA TINGKAT MUDAH
+Kelas 1: huruf awal dan melengkapi kata.
+Kelas 2: suku kata dan kosakata sehari-hari.
+Kelas 3: lawan kata dan persamaan makna.
+Kelas 4: kalimat sederhana dan kata tanya.
+Kelas 5: ejaan, kata baku, dan kata sopan.
+Kelas 6: memahami bacaan pendek.
+
+Total 180 soal (30 per kelas), 4 pilihan per soal, dilengkapi penjelasan.
+Sesi mengambil 25 soal acak tanpa pengulangan dalam satu kelompok.
+Jika semua soal selesai saat waktu misi masih tersisa, kelompok baru diacak;
+soal dari kelompok sebelumnya dapat muncul lagi.
+Waktu per soal: K1 30 dtk, K2 40 dtk, K3 45 dtk, K4–5 60 dtk, K6 90 dtk.
+Pilih Tanpa Waktu bila siswa membutuhkan waktu membaca lebih panjang.
+Bank soal ada di aset/js/bank-kata.js.
+Ilustrasi baru: aset/karakter/raka-kata.png dan robo-arka-kata.png.
